@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://elite-furniture-1gu.pages.dev/sitemap.xml
