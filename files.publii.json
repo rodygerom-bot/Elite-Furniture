@@ -32,7 +32,7 @@
     {
         "path": "/a-guide-to-elegant-living-in-luxury-salons-and-majlis/index.html",
         "type": "file",
-        "md5": "d87c758dea187046b66d9df71887bade"
+        "md5": "447cf7c697a285f9471c6adcb174b873"
     },
     {
         "path": "a-statement-of-luxury-in-classic-elegant-furniture",
@@ -42,7 +42,7 @@
     {
         "path": "/a-statement-of-luxury-in-classic-elegant-furniture/index.html",
         "type": "file",
-        "md5": "f6a86a49b10ffda7d1bbb8e18a4efc61"
+        "md5": "aa1d2d7fe4f5d747cc0027ac5f11b155"
     },
     {
         "path": "a-statement-of-luxury-in-luxury-salons-and-majlis",
@@ -62,7 +62,7 @@
     {
         "path": "/a-timeless-addition-to-classic-elegant-furniture/index.html",
         "type": "file",
-        "md5": "62d6047d06d419df7edfde0aaf67756d"
+        "md5": "a6878396d9339c9ac01a360cca09761b"
     },
     {
         "path": "about-us-2",
@@ -162,7 +162,22 @@
     {
         "path": "/authors/sarah-m-elkins/index.html",
         "type": "file",
-        "md5": "05426e90bc2edc7c25d2cecc102d21cc"
+        "md5": "c1e4cb4ba51468f5d87d357fda1aa64c"
+    },
+    {
+        "path": "authors/sarah-m-elkins/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/sarah-m-elkins/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/sarah-m-elkins/page/2/index.html",
+        "type": "file",
+        "md5": "dbfcfb590bb63a77ea32f1c497a1744e"
     },
     {
         "path": "bringing-timeless-character-to-classic-elegant-furniture",
@@ -172,7 +187,7 @@
     {
         "path": "/bringing-timeless-character-to-classic-elegant-furniture/index.html",
         "type": "file",
-        "md5": "d32937f3b08075eed67f570d974fc00b"
+        "md5": "f83cbbaa972ce484664f2a9f41fc4cc0"
     },
     {
         "path": "choosing-the-right-products-for-beautiful-long-lasting-furniture",
@@ -195,6 +210,36 @@
         "md5": "350848a07569155b6c40dbdca6d69c62"
     },
     {
+        "path": "creating-a-timeless-dining-room-with-classic-furniture-and-elegant-design",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/creating-a-timeless-dining-room-with-classic-furniture-and-elegant-design/index.html",
+        "type": "file",
+        "md5": "adf2871cb2aa168c1b13bf6d6be9667c"
+    },
+    {
+        "path": "creating-an-elegant-and-luxurious-living-room-with-timeless-furniture",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/creating-an-elegant-and-luxurious-living-room-with-timeless-furniture/index.html",
+        "type": "file",
+        "md5": "33e82a8223ed93b5f7b9332c480bea5c"
+    },
+    {
+        "path": "creating-an-elegant-and-welcoming-traditional-living-space",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/creating-an-elegant-and-welcoming-traditional-living-space/index.html",
+        "type": "file",
+        "md5": "103110d4e64167a6bd07097879c3d3cf"
+    },
+    {
         "path": "creating-functional-and-inspiring-spaces-in-kids-and-youth-bedrooms",
         "type": "directory",
         "md5": false
@@ -212,22 +257,32 @@
     {
         "path": "/enhancing-classic-elegant-furniture-with-refined-craftsmanship/index.html",
         "type": "file",
-        "md5": "1ff8ffe59a2ff78cbeda85fe996ff74d"
+        "md5": "6707e5a47ad7686b2659e5b057ffd16d"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "ff36970c6338c86b1e96a6ca6560a502"
+        "md5": "fc6fa99ec64afb7551295b68d54f82cf"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "92801bc0f1588847dd4e2ebefe380a8e"
+        "md5": "16f9b26e4b319e0bcb255f8acbaaedd2"
+    },
+    {
+        "path": "how-to-create-a-luxurious-living-room-with-elegant-furniture-and-timeless-details",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/how-to-create-a-luxurious-living-room-with-elegant-furniture-and-timeless-details/index.html",
+        "type": "file",
+        "md5": "9f3133dedc9eb72b9a7f49116cd9a4d0"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "85daf00050dd8f1ea2f9499c0d002e07"
+        "md5": "dd1da4a074b6383182f361c44405198b"
     },
     {
         "path": "media",
@@ -695,6 +750,226 @@
         "md5": "c60c0f4251bc79c74352d9d5dea9ccb0"
     },
     {
+        "path": "media/posts/21",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/21/images-2026-11-23T210752.853.jpg",
+        "type": "file",
+        "md5": "f2c7752996b21da324e7c11bba6377e9"
+    },
+    {
+        "path": "/media/posts/21/images-2026-11-23T210803.167.jpg",
+        "type": "file",
+        "md5": "e4b668b0a53ec0fb0ff00f5d81b76a0f"
+    },
+    {
+        "path": "media/posts/21/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-11-23T210752.853-md.jpg",
+        "type": "file",
+        "md5": "fa4f015c52716bbffbf831d4907726e0"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-11-23T210752.853-sm.jpg",
+        "type": "file",
+        "md5": "fa4f015c52716bbffbf831d4907726e0"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-11-23T210752.853-xs.jpg",
+        "type": "file",
+        "md5": "d1752c4e5ae7b7c9358585159e7b415f"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-11-23T210803.167-lg.jpg",
+        "type": "file",
+        "md5": "4ce2d301dae065b8a01a180cc62e32f6"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-11-23T210803.167-md.jpg",
+        "type": "file",
+        "md5": "4ce2d301dae065b8a01a180cc62e32f6"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-11-23T210803.167-sm.jpg",
+        "type": "file",
+        "md5": "3bc6a9723df98e2cd62f965b5da42a5a"
+    },
+    {
+        "path": "/media/posts/21/responsive/images-2026-11-23T210803.167-xs.jpg",
+        "type": "file",
+        "md5": "15e52656cec8d96c0343e84efc24b786"
+    },
+    {
+        "path": "media/posts/22",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/22/images-2026-11-23T211424.507-2.jpg",
+        "type": "file",
+        "md5": "d70a91cdee19e56637d42d92a1699cdf"
+    },
+    {
+        "path": "/media/posts/22/images-2026-11-23T211424.507.jpg",
+        "type": "file",
+        "md5": "d70a91cdee19e56637d42d92a1699cdf"
+    },
+    {
+        "path": "media/posts/22/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/22/responsive/images-2026-11-23T211424.507-2-md.jpg",
+        "type": "file",
+        "md5": "1fc99762581bda03df03a7bf371fd6f2"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-2026-11-23T211424.507-2-sm.jpg",
+        "type": "file",
+        "md5": "865c81d63a3f316ed34e9b5777c15830"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-2026-11-23T211424.507-2-xs.jpg",
+        "type": "file",
+        "md5": "c95b07a217898fd6461741740382add8"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-2026-11-23T211424.507-lg.jpg",
+        "type": "file",
+        "md5": "1fc99762581bda03df03a7bf371fd6f2"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-2026-11-23T211424.507-md.jpg",
+        "type": "file",
+        "md5": "1fc99762581bda03df03a7bf371fd6f2"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-2026-11-23T211424.507-sm.jpg",
+        "type": "file",
+        "md5": "865c81d63a3f316ed34e9b5777c15830"
+    },
+    {
+        "path": "/media/posts/22/responsive/images-2026-11-23T211424.507-xs.jpg",
+        "type": "file",
+        "md5": "c95b07a217898fd6461741740382add8"
+    },
+    {
+        "path": "media/posts/23",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/23/images-2026-11-23T211436.325.jpg",
+        "type": "file",
+        "md5": "22e2d169b497188e384f36a5e030d09a"
+    },
+    {
+        "path": "/media/posts/23/images-2026-11-23T211933.928.jpg",
+        "type": "file",
+        "md5": "8a61a19bd45dc5ad986731b70c836db0"
+    },
+    {
+        "path": "media/posts/23/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-23T211436.325-lg.jpg",
+        "type": "file",
+        "md5": "f63c7766329d01ada5d6d9bf33b8eb0e"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-23T211436.325-md.jpg",
+        "type": "file",
+        "md5": "f63c7766329d01ada5d6d9bf33b8eb0e"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-23T211436.325-sm.jpg",
+        "type": "file",
+        "md5": "f63c7766329d01ada5d6d9bf33b8eb0e"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-23T211436.325-xs.jpg",
+        "type": "file",
+        "md5": "c7ce544d8a095ec646becd5036d03d4e"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-23T211933.928-md.jpg",
+        "type": "file",
+        "md5": "88eaf10a91fe5841f56557ef25f5ef93"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-23T211933.928-sm.jpg",
+        "type": "file",
+        "md5": "dd36a7822aa354e2c9c3a726c7bd1915"
+    },
+    {
+        "path": "/media/posts/23/responsive/images-2026-11-23T211933.928-xs.jpg",
+        "type": "file",
+        "md5": "aea61221aaa8467fcaa41f2256e75751"
+    },
+    {
+        "path": "media/posts/24",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/24/images-2026-11-23T211436.325.jpg",
+        "type": "file",
+        "md5": "22e2d169b497188e384f36a5e030d09a"
+    },
+    {
+        "path": "/media/posts/24/images-2026-11-23T211933.928.jpg",
+        "type": "file",
+        "md5": "8a61a19bd45dc5ad986731b70c836db0"
+    },
+    {
+        "path": "media/posts/24/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-11-23T211436.325-lg.jpg",
+        "type": "file",
+        "md5": "f63c7766329d01ada5d6d9bf33b8eb0e"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-11-23T211436.325-md.jpg",
+        "type": "file",
+        "md5": "f63c7766329d01ada5d6d9bf33b8eb0e"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-11-23T211436.325-sm.jpg",
+        "type": "file",
+        "md5": "f63c7766329d01ada5d6d9bf33b8eb0e"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-11-23T211436.325-xs.jpg",
+        "type": "file",
+        "md5": "c7ce544d8a095ec646becd5036d03d4e"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-11-23T211933.928-md.jpg",
+        "type": "file",
+        "md5": "88eaf10a91fe5841f56557ef25f5ef93"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-11-23T211933.928-sm.jpg",
+        "type": "file",
+        "md5": "dd36a7822aa354e2c9c3a726c7bd1915"
+    },
+    {
+        "path": "/media/posts/24/responsive/images-2026-11-23T211933.928-xs.jpg",
+        "type": "file",
+        "md5": "aea61221aaa8467fcaa41f2256e75751"
+    },
+    {
         "path": "media/posts/5",
         "type": "directory",
         "md5": false
@@ -995,6 +1270,21 @@
         "md5": "9c4d7b73d87263bf1aaca2be4381ffa1"
     },
     {
+        "path": "page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/2/index.html",
+        "type": "file",
+        "md5": "b9a72de4981959f55e4f75fe1bbaa31f"
+    },
+    {
         "path": "practical-storage-and-timeless-style-for-kids-and-youth-bedrooms",
         "type": "directory",
         "md5": false
@@ -1032,7 +1322,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "4f97ca1f58a32b804d9a57e40098869e"
+        "md5": "351784b5bb82d5dcfdddd22cae5a895a"
     },
     {
         "path": "sitemap.xsl",
@@ -1047,7 +1337,7 @@
     {
         "path": "/smart-and-stylish-solutions-for-kids-and-youth-bedrooms/index.html",
         "type": "file",
-        "md5": "69587dec1023322dce760466412aa7b7"
+        "md5": "789769fb408183fd80149dcc147d2550"
     },
     {
         "path": "smart-furniture-choices-for-modern-kids-and-youth-bedrooms",
@@ -1102,7 +1392,7 @@
     {
         "path": "/tags/classic-elegant-furniture/index.html",
         "type": "file",
-        "md5": "1ab95f361daad6463b306e9fe13c0b7f"
+        "md5": "a68246fb2e66041ee32fabe577fb9106"
     },
     {
         "path": "tags/classic-majlis-seating",
@@ -1112,7 +1402,7 @@
     {
         "path": "/tags/classic-majlis-seating/index.html",
         "type": "file",
-        "md5": "3b8acfb810a2f8cc2438d2bd6a8e4f5f"
+        "md5": "5e4294850d38e85005ed4cba29f9fc02"
     },
     {
         "path": "tags/fabric-protection",
@@ -1142,12 +1432,12 @@
     {
         "path": "/tags/gold-trim-sofas/index.html",
         "type": "file",
-        "md5": "e29210e011d011cda18dc6ffbbeda159"
+        "md5": "d83200c05e4ef1fdd5aa4a17099e8a44"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "b534331cc879e6a6006afe0e34a61b0a"
+        "md5": "2c481417c8bb5dd56424f89ed25e8332"
     },
     {
         "path": "tags/leather-maintenance",
@@ -1167,7 +1457,7 @@
     {
         "path": "/tags/luxury-salons-and-majlis/index.html",
         "type": "file",
-        "md5": "f490f3f262defd535cc5029ba1a812b6"
+        "md5": "afe7c66973ddbf61984e9cabf6b3d1f8"
     },
     {
         "path": "tags/ornate-sideboards",
@@ -1187,7 +1477,7 @@
     {
         "path": "/tags/royal-velvet-salons/index.html",
         "type": "file",
-        "md5": "caa7647d8798dbbaa145eb6e0282e3a8"
+        "md5": "ceaeeb495c13b999249b36dcf64344eb"
     },
     {
         "path": "tags/study-desks",
@@ -1207,7 +1497,7 @@
     {
         "path": "/tags/vintage-dining-sets/index.html",
         "type": "file",
-        "md5": "eb3934ed4ae85667c3cadff28f01f4fe"
+        "md5": "e217b9ba645cd947ec0863ef547467f5"
     },
     {
         "path": "tags/wood-polish-guides",
