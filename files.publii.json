@@ -162,7 +162,7 @@
     {
         "path": "/authors/sarah-m-elkins/index.html",
         "type": "file",
-        "md5": "c1e4cb4ba51468f5d87d357fda1aa64c"
+        "md5": "6b37b34c02b0dc1b0dd51d9d0697d783"
     },
     {
         "path": "authors/sarah-m-elkins/page",
@@ -177,7 +177,7 @@
     {
         "path": "/authors/sarah-m-elkins/page/2/index.html",
         "type": "file",
-        "md5": "dbfcfb590bb63a77ea32f1c497a1744e"
+        "md5": "a210634bc369ef6570eb1d9089058b42"
     },
     {
         "path": "bringing-timeless-character-to-classic-elegant-furniture",
@@ -188,6 +188,16 @@
         "path": "/bringing-timeless-character-to-classic-elegant-furniture/index.html",
         "type": "file",
         "md5": "f83cbbaa972ce484664f2a9f41fc4cc0"
+    },
+    {
+        "path": "bringing-timeless-elegance-and-functionality-to-modern-living-spaces",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/bringing-timeless-elegance-and-functionality-to-modern-living-spaces/index.html",
+        "type": "file",
+        "md5": "e26b4a941a95d0a12d9b5a48a8494c3b"
     },
     {
         "path": "choosing-the-right-products-for-beautiful-long-lasting-furniture",
@@ -217,7 +227,7 @@
     {
         "path": "/creating-a-timeless-dining-room-with-classic-furniture-and-elegant-design/index.html",
         "type": "file",
-        "md5": "adf2871cb2aa168c1b13bf6d6be9667c"
+        "md5": "569733d5243cb16309e4fd79e93fb359"
     },
     {
         "path": "creating-an-elegant-and-luxurious-living-room-with-timeless-furniture",
@@ -262,12 +272,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "fc6fa99ec64afb7551295b68d54f82cf"
+        "md5": "fbedc1bae6e7051cac53695a966a4927"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "16f9b26e4b319e0bcb255f8acbaaedd2"
+        "md5": "745e3470d13b39a73c6ea87a4ac10007"
     },
     {
         "path": "how-to-create-a-luxurious-living-room-with-elegant-furniture-and-timeless-details",
@@ -282,7 +292,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "dd1da4a074b6383182f361c44405198b"
+        "md5": "e9bcbb1678b1fbc84c912b4b6717140f"
     },
     {
         "path": "media",
@@ -970,6 +980,41 @@
         "md5": "aea61221aaa8467fcaa41f2256e75751"
     },
     {
+        "path": "media/posts/25",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/25/images-2026-11-24T214814.829.jpg",
+        "type": "file",
+        "md5": "c0fff732270cd4222b631321839d487d"
+    },
+    {
+        "path": "media/posts/25/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-11-24T214814.829-lg.jpg",
+        "type": "file",
+        "md5": "73e3814176af36ee4990f771cd1d76e3"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-11-24T214814.829-md.jpg",
+        "type": "file",
+        "md5": "73e3814176af36ee4990f771cd1d76e3"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-11-24T214814.829-sm.jpg",
+        "type": "file",
+        "md5": "5192f03cebc8ceaaafecf34818986cf9"
+    },
+    {
+        "path": "/media/posts/25/responsive/images-2026-11-24T214814.829-xs.jpg",
+        "type": "file",
+        "md5": "e8098212947ef28be5454db5cde030b2"
+    },
+    {
         "path": "media/posts/5",
         "type": "directory",
         "md5": false
@@ -1282,7 +1327,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "b9a72de4981959f55e4f75fe1bbaa31f"
+        "md5": "1f2ba3b914af498aaea543445b2f157c"
     },
     {
         "path": "practical-storage-and-timeless-style-for-kids-and-youth-bedrooms",
@@ -1322,7 +1367,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "351784b5bb82d5dcfdddd22cae5a895a"
+        "md5": "79cd13e4310bf23a6b0504fa01e505cd"
     },
     {
         "path": "sitemap.xsl",
