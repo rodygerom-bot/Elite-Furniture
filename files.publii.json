@@ -62,7 +62,7 @@
     {
         "path": "/a-timeless-addition-to-classic-elegant-furniture/index.html",
         "type": "file",
-        "md5": "a6878396d9339c9ac01a360cca09761b"
+        "md5": "aa5ab20440511ee42e2b6b54d2e9329e"
     },
     {
         "path": "about-us-2",
@@ -162,7 +162,7 @@
     {
         "path": "/authors/sarah-m-elkins/index.html",
         "type": "file",
-        "md5": "6b37b34c02b0dc1b0dd51d9d0697d783"
+        "md5": "edb186221c7f79cbcba67638fa862ef9"
     },
     {
         "path": "authors/sarah-m-elkins/page",
@@ -177,7 +177,7 @@
     {
         "path": "/authors/sarah-m-elkins/page/2/index.html",
         "type": "file",
-        "md5": "a210634bc369ef6570eb1d9089058b42"
+        "md5": "f8e6f01c2ee1ffb5230511093745807f"
     },
     {
         "path": "bringing-timeless-character-to-classic-elegant-furniture",
@@ -187,7 +187,7 @@
     {
         "path": "/bringing-timeless-character-to-classic-elegant-furniture/index.html",
         "type": "file",
-        "md5": "f83cbbaa972ce484664f2a9f41fc4cc0"
+        "md5": "094b183ef5072eed841ceff1802d7b20"
     },
     {
         "path": "bringing-timeless-elegance-and-functionality-to-modern-living-spaces",
@@ -197,7 +197,17 @@
     {
         "path": "/bringing-timeless-elegance-and-functionality-to-modern-living-spaces/index.html",
         "type": "file",
-        "md5": "e26b4a941a95d0a12d9b5a48a8494c3b"
+        "md5": "856f1fedd86aa92bb0e59b65eadb057b"
+    },
+    {
+        "path": "bringing-timeless-elegance-to-the-modern-dining-room",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/bringing-timeless-elegance-to-the-modern-dining-room/index.html",
+        "type": "file",
+        "md5": "707afc99d717140ad2d0379a65e83ce0"
     },
     {
         "path": "choosing-the-right-products-for-beautiful-long-lasting-furniture",
@@ -227,7 +237,7 @@
     {
         "path": "/creating-a-timeless-dining-room-with-classic-furniture-and-elegant-design/index.html",
         "type": "file",
-        "md5": "569733d5243cb16309e4fd79e93fb359"
+        "md5": "0b50d5f4a1aff3f4ca40c5dca5361ab8"
     },
     {
         "path": "creating-an-elegant-and-luxurious-living-room-with-timeless-furniture",
@@ -272,12 +282,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "fbedc1bae6e7051cac53695a966a4927"
+        "md5": "4f00d6cbf6c11935fc7971b840479ea0"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "745e3470d13b39a73c6ea87a4ac10007"
+        "md5": "43131e488a7a9e0d23c815daac7cf6c2"
     },
     {
         "path": "how-to-create-a-luxurious-living-room-with-elegant-furniture-and-timeless-details",
@@ -292,7 +302,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "e9bcbb1678b1fbc84c912b4b6717140f"
+        "md5": "eb1c3b84f7aa5a54b68e65e870ab8d28"
     },
     {
         "path": "media",
@@ -1015,6 +1025,61 @@
         "md5": "e8098212947ef28be5454db5cde030b2"
     },
     {
+        "path": "media/posts/26",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/26/images-2026-11-26T205713.838-2.jpg",
+        "type": "file",
+        "md5": "71daa35f387656d9174773bb894c2ed2"
+    },
+    {
+        "path": "/media/posts/26/images-2026-11-26T205713.838.jpg",
+        "type": "file",
+        "md5": "71daa35f387656d9174773bb894c2ed2"
+    },
+    {
+        "path": "media/posts/26/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/26/responsive/images-2026-11-26T205713.838-2-md.jpg",
+        "type": "file",
+        "md5": "72c6319b88e84442b9b37926c1c55f29"
+    },
+    {
+        "path": "/media/posts/26/responsive/images-2026-11-26T205713.838-2-sm.jpg",
+        "type": "file",
+        "md5": "72c6319b88e84442b9b37926c1c55f29"
+    },
+    {
+        "path": "/media/posts/26/responsive/images-2026-11-26T205713.838-2-xs.jpg",
+        "type": "file",
+        "md5": "7997d8ce9e6b3e4940932a605c14f59c"
+    },
+    {
+        "path": "/media/posts/26/responsive/images-2026-11-26T205713.838-lg.jpg",
+        "type": "file",
+        "md5": "72c6319b88e84442b9b37926c1c55f29"
+    },
+    {
+        "path": "/media/posts/26/responsive/images-2026-11-26T205713.838-md.jpg",
+        "type": "file",
+        "md5": "72c6319b88e84442b9b37926c1c55f29"
+    },
+    {
+        "path": "/media/posts/26/responsive/images-2026-11-26T205713.838-sm.jpg",
+        "type": "file",
+        "md5": "72c6319b88e84442b9b37926c1c55f29"
+    },
+    {
+        "path": "/media/posts/26/responsive/images-2026-11-26T205713.838-xs.jpg",
+        "type": "file",
+        "md5": "7997d8ce9e6b3e4940932a605c14f59c"
+    },
+    {
         "path": "media/posts/5",
         "type": "directory",
         "md5": false
@@ -1327,7 +1392,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "1f2ba3b914af498aaea543445b2f157c"
+        "md5": "70a141376b27f417f322c24c93054d4c"
     },
     {
         "path": "practical-storage-and-timeless-style-for-kids-and-youth-bedrooms",
@@ -1357,7 +1422,7 @@
     {
         "path": "/redefining-elegance-in-luxury-salons-and-majlis/index.html",
         "type": "file",
-        "md5": "60b6bdfca45aa90b8ddeb5aea60ec1d0"
+        "md5": "779198b919458ac00207b0b2579437fe"
     },
     {
         "path": "robots.txt",
@@ -1367,7 +1432,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "79cd13e4310bf23a6b0504fa01e505cd"
+        "md5": "e42bb23edf6e47b7de48a52c4460ae41"
     },
     {
         "path": "sitemap.xsl",
@@ -1437,7 +1502,7 @@
     {
         "path": "/tags/classic-elegant-furniture/index.html",
         "type": "file",
-        "md5": "a68246fb2e66041ee32fabe577fb9106"
+        "md5": "f66597a331815fb86b4d336661a784a1"
     },
     {
         "path": "tags/classic-majlis-seating",
@@ -1482,7 +1547,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "2c481417c8bb5dd56424f89ed25e8332"
+        "md5": "9909bdb99f22cf51e425126a961fbba0"
     },
     {
         "path": "tags/leather-maintenance",
@@ -1542,7 +1607,7 @@
     {
         "path": "/tags/vintage-dining-sets/index.html",
         "type": "file",
-        "md5": "e217b9ba645cd947ec0863ef547467f5"
+        "md5": "3dff067bab9cb05e77ed283e34de1705"
     },
     {
         "path": "tags/wood-polish-guides",
